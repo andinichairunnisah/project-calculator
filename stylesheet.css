@@ -39,7 +39,7 @@ button {
     color: #fff;
     width: 25%;
     outline: none;
-    box-shadow: 0 7px;
+    box-shadow: 0 7px none;
     cursor:pointer;
 }
 
@@ -64,7 +64,6 @@ button:hover {
 }
 
 button:active {
-    background-color: darkgray;
     box-shadow:none;
     position:relative;
     top:7px;
