@@ -1,9 +1,14 @@
+body {
+    background-color: rgb(65, 223, 235);
+    margin:0px;
+    font-family:"Comic Sans MS";
+}
+
 .calculator {
     text-align: center;
     margin: 0 auto;
     padding-top: 30px;
     width: 400px;
-
 }
 
 .calculator-screen {
@@ -82,10 +87,6 @@ button:active {
     opacity:0.7;
     margin-bottom:10px;
   }
-
-body {
-    background-color: rgb(65, 223, 235);
-}
 
 .penutup {
     text-align:center;
