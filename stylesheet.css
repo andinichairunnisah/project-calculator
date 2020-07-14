@@ -45,7 +45,7 @@ button {
 
 .all-clear {
     width: 50%;
-    background-color : rgb(212, 11, 11);
+    background-color: rgb(212, 11, 11);
 }
 .all-clear:hover {
     background-color: red;
@@ -64,9 +64,9 @@ button:hover {
 }
 
 button:active {
-    box-shadow:none;
-    position:relative;
-    top:7px;
+    box-shadow: none;
+    position: relative;
+    top: 7px;
  }
 
 .operator:hover, .equal-sign:hover {
